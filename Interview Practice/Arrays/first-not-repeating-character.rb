@@ -9,4 +9,3 @@ def firstNotRepeatingCharacter(s)
         return '_'
     end
 end
-
