@@ -1,6 +1,8 @@
-# Interview Practice
+## Interview Practice
 
-## Data Structures
+Popular programming practice questions and the solutions. All categories listed below
+
+### Data Structures
 * Arrays
 * Linked Lists
 * Hash Tables
@@ -9,23 +11,27 @@
 * Graphs
 * Trees: Advanced
 
-## Sorting & Searching
+
+### Sorting & Searching
 * Depth-First Search & Breadth-First Search
 * Backtracking
 * Sorting
 
-## Dynamic Programming
+
+### Dynamic Programming
 * Dynamic Programming: Basic
 * Dynamic Programming: Advanced
 
-## Special Topics
+
+### Special Topics
 * Strings
 * Bits
 * Common Techniques: Basic
 * Common Techniques: Advanced
 * RegEx
 
-## Math
+
+### Math
 * Number Theory
 * Counting
 * Geometry
