@@ -4,12 +4,12 @@ Given a string of digits, return all of the possible non-empty letter combinatio
 
 The resulting array should be sorted lexicographically.
 
-Example
+#### Example
 
 For buttons = "42", the output should be
 pressingButtons(buttons) = ["ga", "gb", "gc", "ha", "hb", "hc", "ia", "ib", "ic"].
 
-Input/Output
+#### Input/Output
 
 [execution time limit] 4 seconds (rb)
 
@@ -17,7 +17,7 @@ Input/Output
 
 A string composed of digits ranging from '2' to '9'.
 
-Guaranteed constraints:
+#### Guaranteed constraints:
 0 ≤ buttons.length ≤ 7.
 
 [output] array.string
@@ -30,13 +30,14 @@ Guaranteed constraints:
 
 Given a string s, find all its potential permutations. The output should be sorted in lexicographical order.
 
-Example
+#### Example
 
 For s = "CBA", the output should be
 stringPermutations(s) = ["ABC", "ACB", "BAC", "BCA", "CAB", "CBA"];
 For s = "ABA", the output should be
 stringPermutations(s) = ["AAB", "ABA", "BAA"].
-Input/Output
+
+#### Input/Output
 
 [execution time limit] 4 seconds (rb)
 
